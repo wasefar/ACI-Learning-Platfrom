@@ -1,0 +1,843 @@
+
+
+/*extra large 1920px*/
+
+@media only screen and (min-width: 1399px) and (max-width: 1920px) {
+
+.about_training_text_tittle p, .about_objective_list ol li {
+    font-size: 22px;
+    line-height: 34px;
+}
+.about_training_text_tittle h4 {
+    font-size: 33px;
+    line-height: 39px;
+}
+.about_tittle h3{
+    font-size: 40px;
+}
+.vision_tittle p {
+    font-size: 18px;
+}
+.about_trining_img.objective img {
+    width: 100%;
+}
+.login_area.logged span.name{
+    font-size: 15px;
+}
+.login_area.logged i {
+    font-size: 12px;
+    width: 30px;
+    height: 30px;
+    line-height: 26px;
+}
+.user_image img {
+    margin-top: -25%;
+}
+.self_talk_us p {
+    font-size: 15px;
+    line-height: 18px;
+}
+.destination_area .name_faculty {
+    font-size: 18px;
+}
+.destination_area .deparment_faculty {
+    font-size: 15px;
+    line-height: 20px;
+}
+.main_faculty_box_tittle h2 {
+    margin-top: 31px;
+    font-size: 35px;
+}
+.contact_area span.con_info {
+    font-size: 17px;
+}
+.sc_pd {
+    padding: 29px;
+    padding-bottom: 25px;
+}
+.course_tittle h3 {
+    font-size: 24px;
+}
+.course_tittle p {
+    font-size: 14px;
+}
+.open_course_btn .course{
+    font-size: 15px;
+}
+.single_faculty_item.gallery img{
+    height: 310px;
+} 
+.single_inside_contant.bg_box{
+    padding-bottom: 45px;
+}
+.owl-carousel.event-slider .owl-nav .owl-next {
+    right: 0;
+}
+.login_main_warp.box{
+    top: 100%;
+} 
+.main_banner.sc_bg_agribusiness {
+    height: 90vh;
+}
+.search_item.bg_rgba {
+    margin-top: 118px;
+}
+.single_counter_box {
+    width: 100%;
+    height: 200px;
+}
+.counter_area.training img {
+    margin-top: 67px;
+}
+.box_contant {
+    width: 60%;
+}
+.single_survey_text p {
+    font-size: 15px;
+}
+.single_survey_title h5 {
+    font-size: 22px;
+}
+.show_phone.hide_desktop.tittle {
+    display: block;
+}
+.survey_tittle.servey {
+    display: none;
+}
+.main_about_us_area.bg_banner {
+    height: 400px;
+}
+.contact_inside_padding {
+    padding: 15px 183px;
+}
+.agribusiness_tittle .main_faculty_box_tittle h2 {
+    margin-top: 46px;
+}
+ 
+    
+}
+
+
+@media only screen and (min-width: 1201px) and (max-width: 1340px) {
+
+.search_item.bg_rgba {
+    margin-top: 90px;
+}
+.single_counter_box.text-center {
+    width: 100%;
+}
+.show_phone.hide_desktop.tittle {
+    display: block;
+}
+.survey_tittle.servey {
+    display: none;
+}
+.single_survey_title h5 {
+    width: 65%;
+}
+/*about us*/
+.top_header_area .col-md-2.align-self-center {
+    padding: 0;
+}
+/*Agrbusimess*/
+.main_banner.sc_bg_agribusiness {
+    height: 100vh;
+}
+.banner.counter_traning_hour {
+    bottom: 21%;
+}
+.main_banner.warp {
+    height: 90vh;
+}
+/*table online schedule*/
+.table .thead-dark.xm_schedule th {
+    font-family: unset;
+    font-size: 11px;
+    font-weight: 600;
+}
+.format_table.sc table td {
+    padding: 21px;
+    font-family: unset;
+    font-size: 10px;
+}
+/*published result*/
+.published_results .col-md-4 {
+    max-width: 50%;
+    flex: 50%;
+}
+.format_table.sc.xm_result .table td {
+    font-size: 11px;
+}
+.format_table.sc.xm_result .btn.btn-danger.course.published_rslt {
+    padding: 7px 50px;
+    font-size: 10px;
+    font-weight: 600;
+}
+/*footer event*/
+.main_calculate_area.event .format_table.sc table td {
+    font-size: 15px;
+    padding: 18px;
+}
+
+
+}
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+.mainmenu-area ul li {
+    padding: 3px 5px 0;
+    margin-left: 18px;
+}
+.mainmenu-area ul li a {
+    font-size: 12px;
+}
+.login {
+    font-size: 13px;
+    padding: 6px 33px;
+}
+.search_item.bg_rgba {
+    margin-top: 90px;
+}
+.counter_area.box {
+    width: 80%;
+}
+.single_counter_box, 
+.online_exam.training_videos {
+    width: 100%;
+}
+.show_phone.hide_desktop.tittle {
+    display: block;
+}
+.survey_tittle.servey {
+    display: none;
+}
+.box_contant {
+    width: 80%;
+}
+.single_survey_title h5 {
+    width: 71%;
+}
+.text-center.bdt_gold {
+    width: 35%;
+}
+.main_footer_item {
+    padding: 50px 15px;
+}
+.contact_us_area, .fllow_us {
+    margin-left: 0px;
+}
+.login_main_warp.box {
+    width: 50%;
+}
+/*about us*/
+.top_header_area .col-md-2.align-self-center {
+    padding: 0;
+}
+.fa.fa-user {
+    font-size: 7px;
+    width: 20px;
+    height: 20px;
+    line-height: 19px;
+}
+.login_area.logged span.name {
+    font-size: 11px;
+}
+.mainmenu-area li:hover ul {
+    left: -48%;
+}
+.about_aci_learning_platfrom {
+    width: 90%;
+}
+.about_training_text_tittle p {
+    font-size: 11px;
+}
+.about_trining_img.objective img {
+    width: 100%;
+}
+.about_objective_list ol li {
+    font-size: 12px;
+    padding-bottom: 7px;
+}
+/*Agrabusiness*/
+.aci_image_box img, 
+ .aci_text_seed .aci_image_box img {
+    width: 100%;
+}
+.main_banner.sc_bg_agribusiness {
+    height: 100vh;
+}
+.banner.counter_traning_hour {
+    bottom: 21%;
+}
+.main_banner.warp {
+    height: 90vh;
+}
+/*table online schedule*/
+.table .thead-dark.xm_schedule th {
+    font-family: unset;
+    font-size: 11px;
+    font-weight: 600;
+}
+.format_table.sc table td {
+    padding: 21px;
+    font-family: unset;
+    font-size: 10px;
+}
+/*published result*/
+.published_results .col-md-4 {
+    max-width: 50%;
+    flex: 50%;
+}
+.format_table.sc.xm_result .table td {
+    font-size: 11px;
+}
+.format_table.sc.xm_result .btn.btn-danger.course.published_rslt {
+    padding: 7px 50px;
+    font-size: 10px;
+    font-weight: 600;
+}
+/*footer event*/
+.main_calculate_area.event .format_table.sc table td {
+    font-size: 15px;
+    padding: 18px;
+}
+
+
+}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+.container_box {
+    width: 95%;
+}
+.mainmenu-area ul li a {
+    font-size: 11px;
+}
+.mainmenu-area ul li {
+    padding: 2px 6px 0;
+    margin-left: 6px;
+} 
+.login {
+    font-size: 10px;
+    padding: 8px 33px;
+}
+.search_item.bg_rgba {
+    margin-top: 62px;
+}
+.counter_area.box {
+    width: 100%;
+} 
+.single_counter_box {
+    width: 100%;
+}  
+.show_phone.hide_desktop.tittle {
+    display: block;
+}
+.survey_tittle.servey {
+    display: none;
+}
+.single_survey_text p {
+    font-size: 11px;
+    line-height: 18px;
+    padding: 15px 11px 15px 11px;
+}
+.single_survey_title h5 {
+    width: 70%;
+    font-size: 15px;
+}
+.online_exam.training_videos {
+    width: 95%;
+}
+.text-center.bdt_gold { 
+    width: 40%; 
+}
+.main_footer_item {
+    padding: 50px 15px;
+}
+.contact_us_area, .fllow_us {
+    margin-left: 0px;
+}
+.contact_details .contac_info span {
+    font-size: 13px;
+}
+.copyright_text p {
+    font-size: 13px;
+}
+.banner.counter_traning_hour { 
+    bottom: 20%; 
+}
+.main_banner.warp {
+    height: 90vh;
+}
+.login_main_warp.box {
+    width: 60%;
+}
+/*about us*/
+.top_header_area .col-md-2.align-self-center {
+    padding: 0;
+}
+.fa.fa-user {
+    font-size: 7px;
+    width: 20px;
+    height: 20px;
+    line-height: 19px;
+}
+.login_area.logged span.name {
+    font-size: 11px;
+}
+.mainmenu-area li:hover ul {
+    left: -48%;
+}
+.about_aci_learning_platfrom {
+    width: 90%;
+}
+.about_training_text_tittle p {
+    font-size: 11px;
+}
+.about_trining_img.objective img {
+    width: 100%;
+}
+.about_objective_list ol li {
+    font-size: 12px;
+    padding-bottom: 7px;
+}
+/*faculty*/
+.faculty_sc_document .col-md-3{
+    max-width: 33.3%;
+    flex: 33.3%;
+}
+/*contact us*/
+.main_about_us_area.bg_banner {
+    margin-top: 72px;
+}  
+.contact_inside_padding {
+    padding: 15px 25px;
+} 
+ /*Agribusiness*/
+ .aci_image_box img, 
+ .aci_text_seed .aci_image_box img {
+    width: 100%;
+}
+.aci_image_box {
+    height: 100%;
+    margin-top: -42px;
+}
+.aci_image_box img {
+    padding: 93px 0;
+}
+.aci_text_seed {
+    margin-top: -100px;
+}
+.agrolink_area.agribusiness::after {
+    width: 100%;
+}
+.main_banner.sc_bg_agribusiness {
+    height: 100vh;
+}
+/*table exam schedule*/
+.table .thead-dark.xm_schedule th {
+    font-size: 10px;
+    font-weight: 600;
+}
+.format_table.sc table td {
+    padding: 12px;
+    font-size: 8px;
+    font-weight: 500;
+    line-height: 16px;
+}
+ /*result*/
+ .format_table.sc.xm_result .table td {
+    font-size: 11px;
+}
+.format_table.sc.xm_result .btn.btn-danger.course.published_rslt {
+    padding: 7px 50px;
+    font-size: 10px;
+    font-weight: 600;
+}
+.published_results .col-md-4 {
+    max-width: 50%;
+    flex: 50%;
+}
+/*footer event*/
+.single_inside_contant.bg_box {
+    width: 96%;
+}
+.owl-carousel.event-slider .owl-nav .owl-next {
+    right: -33px;
+}
+.main_calculate_area.event .format_table.sc table td {
+    font-size: 15px;
+    padding: 18px;
+}
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    
+.top_header_area .col-md-2 {
+    max-width: 50%;
+}
+.search_item.bg_rgba {
+    margin-top: 80px;
+}
+.container_box{
+    width: 90%;
+} 
+.login_area {
+    display: none;
+}
+.bars {
+    display: block;
+}
+.fas.fa-bars {
+    font-size: 21px;
+    /* float: right; */
+    position: absolute;
+    right: 14px;
+    /* float: right; */
+    top: -37px;
+    cursor: pointer;
+}
+.overlay_mobile_menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    display: none;
+}
+.cross_nav {
+    display: block;
+    font-size: 40px;
+    color: #fff;
+    position: absolute;
+    right: 0;
+    padding: 11px 18px;
+}
+.mainmenu-area {
+    text-align: left;
+    margin-top: 70px;
+}
+.mainmenu-area ul li {
+    width: 100%;
+    display: block;
+    padding-left: 0px;
+    padding-bottom: 17px;
+}
+.mainmenu-area ul li a {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+.mainmenu-area li ul {
+    left: 30%;
+    top: 45px;
+}
+.mainmenu-area li ul li a{
+    color: #151515;
+    font-size: 15px;
+}
+.mainmenu-area li:hover ul{
+    left: 30%;
+}
+ .show_mobile_login {
+    display: block;
+    float: none;
+    text-align: center;
+    margin-top: 30px;
+}
+.login {
+    width: 80%;
+}
+.login_main_warp.box {
+    width: 100%;
+}
+.tittle_login h4 {
+    line-height: 30px;
+    padding-bottom: 8px;
+}
+.go_back.login_area_go {
+    margin-top: 18px;
+}
+.go_back.login_area_go {
+    margin-top: 18px;
+}
+.inside_search.text-center {
+    width: 85%;
+}
+.search_item.bg_rgba .col-sm-2 {
+    max-width: 25%;
+}
+.search_item.bg_rgba .col-sm-6 {
+    max-width: 65%;
+}
+.single_counter_box {
+    margin-bottom: 35px;
+    width: 100%;
+}
+.banner.counter_traning_hour {
+    padding: 120px 0 60px;
+}
+.main_banner.warp {
+    height: 100%;
+}
+.new_bg.banner_tittle.text-center {
+    top: 20%;
+}
+.new_bg.banner_tittle h3 {
+    font-size: 30px;
+    line-height: 41px;
+}
+.new_bg.banner_tittle p {
+    margin-bottom: 20px;
+}
+.survey_tittle.servey {
+    width: 70%;
+    margin: 0 auto;
+}
+.tittle_survey h3 {
+    width: 90%;
+}
+.single_survey_box {
+    margin-bottom: 40px;
+}
+#wdt_fix {
+    width: 22%;
+}
+.single_survey_title h5 {
+    width: 42%;
+}
+.survey_box.main_grid_contant::before {
+    height: 50%;
+}
+.online_xm .tittle_survey h3 {
+    width: 85%;
+}
+.online_xm .survey_tittle.servey, 
+.training .survey_tittle.servey, 
+.training_materials .survey_tittle.servey, 
+.padding-sc.training_materials .tittle_survey h3, 
+.text-center.bdt_gold{
+    width: 100%;
+}
+.online_exam_sc .col-md-4 {
+    padding-left: 0px;
+    margin-bottom: 70px;
+}
+.main_before.bg_online_exam_section::after {
+    height: 94%;
+}
+.padding-sc.training {
+    padding: 12px 0 40px;
+}
+.training_crop.videos, 
+.single_training_materials {
+    margin-bottom: 30px;
+}
+.training_videos_sc {
+    padding-bottom: 60px;
+}
+.red_mark.event {
+    font-size: 14px;
+}
+.main_footer_item {
+    padding: 0;
+}
+.contact_us_area, 
+.fllow_us {
+    margin-left: 0;
+}
+.single_footer_area {
+    margin-bottom: 25px;
+}
+.tittle_footer_ar_big {
+    margin-top: 52px;
+}
+.link_footer_menu {
+    padding-bottom: 20px;
+    text-align: center;
+    float: none;
+}
+.link_footer_menu ul li {
+    padding: 0 14px;
+}
+.copyright_text p {
+    font-size: 10px;
+}
+.show_phone.hide_desktop.tittle {
+    display: block;
+}
+.survey_tittle.servey {
+    display: none;
+}
+.padding-sc.training .show_phone.hide_desktop.text-center.tittle img, 
+.padding-sc.training_materials .show_phone.hide_desktop.text-center.tittle img {
+    width: 100%;
+}
+.copyright_text {
+    float: none;
+    text-align: center;
+}
+
+/*about us*/
+.main_about_us_area.bg_banner {
+    background: url('../image/banner/about_banner.png') no-repeat center top;
+}
+.about_aci_learning_platfrom {
+    padding: 0 0 50px;
+    width: 90%;
+}
+.about_tittle h3 {
+    padding-bottom: 17px;
+    font-size: 18px;
+}
+.about_tittle.objective h3 {
+    margin-top: 50px;
+}
+.about_objective_list ol li {
+    font-size: 11px;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+.about_trining_img.objective img {
+    width: 100%;
+}
+/*contact us*/
+.contact_inside_padding {
+    padding: 15px 20px;
+}
+/*Agrbusiness*/
+.aci_text_seed {
+    margin-top: -42px;
+}
+.single_agribusiness_propaty {
+    margin-bottom: 100px;
+}
+.main_banner.sc_bg_agribusiness {
+    height: 100%;
+}
+.aci_agribusiness_grid .col-md-7 {
+    order: 2;
+}
+.fertillizer_area .col-md-9{
+    order: 2;
+}
+.agrolink_area.agribusiness {
+    padding-bottom: 1px;
+}
+/*table exam schedule*/
+.table.mobile_item td span {
+    font-weight: 700;
+    font-size: 14px;
+}
+.table.mobile_item td{
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+.table.mobile_item th{
+    font-weight: 600;
+    font-size: 20px;
+}
+.m_show_desktop_hide{
+    display: block;
+}
+.m_hide_desktop_show{
+    display: none;
+}
+/*publish rsullt*/
+.previous_tittle {
+    font-size: 13px;
+}
+.event_calcu {
+    font-size: 10px;
+    font-weight: 600;
+}
+.single_inside_contant.bg_box {
+    width: 100%;
+}
+/*footer event*/
+.owl-carousel.event-slider .owl-nav .owl-prev img, .owl-carousel.event-slider .owl-nav .owl-next img {
+    width: 12px;
+    margin-top: -38px;
+}
+.owl-carousel.event-slider .owl-nav .owl-prev, .owl-carousel.event-slider .owl-nav .owl-next {
+    left: -29px;
+    width: 25px;
+    height: 25px;
+}
+.owl-carousel.event-slider .owl-nav .owl-next {
+    left: auto;
+    right: -28px;
+}
+
+
+    
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 500px) and (max-width: 767px) {
+
+.show_phone.hide_desktop.tittle img {
+    width: 50%;
+}
+.survey_grid_sc .col-md-3 {
+    max-width: 50%;
+}
+#wdt_fix {
+    width: 30%;
+}
+.single_survey_title h5 {
+    width: 60%;
+}
+.padding-sc.training .show_phone.hide_desktop.tittle img, 
+.padding-sc.training_materials .show_phone.hide_desktop.tittle img {
+    width: 80%;
+}
+.online_exam_sc .col-md-4, 
+.training_videos_sc .col-md-4, 
+.training_materials_details .col-md-4{
+    max-width: 50%;
+}
+.top_header_area .col-md-8.align-self-center {
+    max-width: 50%;
+}
+.fas.fa-bars {
+    font-size: 29px;
+    top: -13px;
+}
+.online_exam.training_videos {
+    width: 100%;
+}
+.search_item.bg_rgba {
+    margin-top: 112px;
+}
+.banner.counter_traning_hour {
+    bottom: -30%;
+}
+/*faculty*/
+.faculty_sc_document .col-md-3 {
+    max-width: 50%;
+    flex: 50%;
+}
+.faculty_sc_document.course .col-md-4 {
+    max-width: 50%;
+    flex: 50%;
+}
+.logo_area.warp img {
+    width: 50%;
+}
+/*publish result*/
+.published_results .col-md-4 {
+    max-width: 50%;
+    flex: 50%;
+}
+
+    
+}
+
+
+
